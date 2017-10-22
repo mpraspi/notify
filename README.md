@@ -1,2 +1,0 @@
-# notify
-Mediapipe Kodi Notifier
