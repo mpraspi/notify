@@ -1,3 +1,6 @@
-1
+2
 |||
-1st MSG: [B][COLOR blue]Now in BLUE Colour!!![/COLOR][/B]
+2nd MSG: [B][COLOR blue]Now in BLUE Colour!!![/COLOR][/B]
+
+And a [B][COLOR yellow]Multi-line message in yellow[/COLOR][/B],
+just to show off a bit.  MEOW!
