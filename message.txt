@@ -1,3 +1,6 @@
 1
 |||
 Type your message here
+2
+|||
+2nd Test MSG: [B][COLOR white]Now in Colour!!![/COLOR][/B]
