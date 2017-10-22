@@ -1,2 +1,2 @@
 1|||1st MSG: [B][COLOR red]Now in RED Colour!!![/COLOR][/B]
-1|||2nd Test MSG: [B][COLOR white]Now in WHITE Colour!!![/COLOR][/B]
+2|||2nd Test MSG: [B][COLOR white]Now in WHITE Colour!!![/COLOR][/B]
