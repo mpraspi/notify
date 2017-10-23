@@ -9,4 +9,4 @@
     'System Retain' (mp-tools) - Update & Support; retain settings w/ System Reset
     'Kodi-Clear Cache' (mp-tools) - remove Kodi temporary and cache files
     'Supremacy' (kodi) - Movies, TV, 24-7 streaming...
-[COLOR yellow]Exit [B]Kodi[/B] for more information...[/COLOR]
+[COLOR yellow]See [B]Mediapipe Notify[/B] (desktop) for more information...[/COLOR]
