@@ -1,17 +1,13 @@
-3
+4
 |||
 [B][COLOR yellow]Mediapipe Raspbian News - 10.22.2017[/COLOR][/B]
-
  A new update is available for Backstage Pass holders. To get started,
  click the Update & Support icon below and choose System Reset.
-
   [B][COLOR white]Fixes:[/COLOR][/B]
     Raspbian system security updates (Incl. Krack WiFi vulnerability)
     Various Mediapipe Tools improvements and fixes
-
   [B][COLOR white]Features:[/COLOR][/B]
     New backup option -> 'System Retain' - keep System and/or Kodi settings after doing a System Reset
     New MP-Tool -> 'Kodi-Clear Cache' - remove Kodi temporary and cache files
     New Kodi Add-on -> 'Supremacy' - Movies, TV, 24-7 streaming, and more
-
 [COLOR yellow]Exit [B]Kodi[/B] for more information...[/COLOR]
