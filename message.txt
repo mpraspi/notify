@@ -3,10 +3,10 @@
 [B][COLOR yellow]Mediapipe Raspbian News - 11.05.2017[/COLOR] - MP-RASPI V1.1.0[/B]
  [COLOR magenta]Thank-You for supporting [B]Mediapipe Solutions[/B].[/COLOR]
   [B][COLOR white]Fixes:[/COLOR][/B]
-    Raspbian system security updates (Incl. Krack WiFi vulnerability)
+    Raspbian system security updates (Incl. Krack Wi-Fi vulnerability)
     Various Mediapipe Tools improvements and fixes
   [B][COLOR white]Features:[/COLOR][/B]
-    'System Retain' (mp-tools) - Update & Support; retain settings w/ System Reset
+    'System Retain' (mp-tools) - Retain specified settings (System or Kodi) after reset
     'Kodi-Clear Cache' (mp-tools) - remove Kodi temporary and cache files
     'Supremacy' (kodi) - Movies, TV, 24-7 streaming...
 [COLOR yellow]See [B]Mediapipe Notify[/B] (desktop) for more information...[/COLOR]
