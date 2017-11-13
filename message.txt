@@ -1,7 +1,13 @@
-6
+7
 |||
-[B][COLOR yellow]Mediapipe Raspbian News - 11.05.2017[/COLOR] - MP-RASPI V6.1.0[/B]
- [COLOR magenta]Thank-You for supporting [B]Mediapipe Solutions[/B].[/COLOR]
+[B][COLOR yellow]Mediapipe Raspbian News - 11.12.2017[/COLOR] - MP-RASPI V6.1.1[/B]
+ [COLOR magenta]New Update Released - v6.1.1 <-> What's New.[/COLOR]
+  [B][COLOR white]Fixes:[/COLOR][/B]
+    Kodi: Acestream Engine links - engine start and stop scripts fixed
+[COLOR yellow]See [B]Mediapipe Notify[/B] (desktop) for more info...[/COLOR]
+
+-- Previous News --
+ [COLOR magenta]New Update Released - v6.1.0 <-> What's New.[/COLOR]
   [B][COLOR white]Fixes:[/COLOR][/B]
     Raspbian system security updates (Incl. Krack Wi-Fi vulnerability)
     Various Mediapipe Tools improvements and fixes
@@ -9,4 +15,3 @@
     'System Retain' (mp-tools) - Retain specified settings (System or Kodi) after reset
     'Kodi-Clear Cache' (mp-tools) - remove Kodi temporary and cache files
     'Supremacy' (kodi) - Movies, TV, 24-7 streaming...
-[COLOR yellow]See [B]Mediapipe Notify[/B] (desktop) for more information...[/COLOR]
